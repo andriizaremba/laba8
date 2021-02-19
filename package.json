@@ -1,0 +1,24 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriizaremba/laba8.git"
+  },
+  "author": "Andrii Zaremba <zaremba_ak19@nuwm.edu.ua>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriizaremba/laba8/issues"
+  },
+  "homepage": "https://github.com/andriizaremba/laba8#readme",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
